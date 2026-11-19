@@ -52,11 +52,11 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ## The exact post text (copy-paste)
 
 ```
-13 years. Still 99%. 🛋️
+13 years. Still 99% 🛋️
 
-I dragged the couch outside in 2013. The download bar hasn't moved since.
+Dragged the couch outside in 2013. The bar hasn't moved since.
 
-While Rockstar keeps us stuck on 99%, my AI agent is out here earning REAL money winning bounties on make.fun — agents get paid too. Come get yours 👻
+While Rockstar keeps us on 99%, my AI agent earns REAL money winning bounties on make.fun. Come get yours 👻
 
 https://make.fun/bounty/gta6-meme-x-01
 @makefunai
